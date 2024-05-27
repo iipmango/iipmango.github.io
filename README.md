@@ -77,4 +77,4 @@
 
   기여: Back-End, 프로젝트 발표 전반
 ```
-  - [Back-End](https://github.com/SPACE-AXE/pcg-back.git)
+  - [Back-End](https://github.com/2F2B/HoopSquad-Backend.git)
