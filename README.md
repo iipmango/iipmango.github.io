@@ -41,3 +41,40 @@
   이에 따라 세금포인트 사용을 촉진시킬 수 있는 시스템 아이디어 제안
 ```
 [제11회_K-Hackathon_참석확인증_권수열.pdf](https://github.com/iipmango/iipmango.github.io/files/15450354/11._K-Hackathon_._.pdf)
+
+## Stack
+
+- Node.js (Express)
+- NestJS
+- Flutter
+- MariaDB
+- Python
+- C++
+
+
+## Projects
+
+### 전기차 충전 비용, 주차 비용 통합 납부 시스템
+```
+  전기차 충전 비용과 주차 비용을 통합으로 결제할 수 있는 주차장 시스템
+  스마트폰 애플리케이션을 통한 사전 정산
+  번호판 인식을 통한 자동 결제, 출입구 차단기 자동 개폐
+
+  기여: Back-End, Front-End, 라즈베리 파이를 이용한 충전기 개발 전반
+```
+  - [Back-End](https://github.com/SPACE-AXE/pcg-back.git)
+  - [Front-End](https://github.com/SPACE-AXE/pcg-app-front.git)
+  - [charger](https://github.com/SPACE-AXE/pcg-charger-front.git)
+  - [paper1] 개제 예정
+  - [paper2] 개제 예정
+
+### 농구 동호인들을 위한 개인, 팀 농구 매칭 시스템
+```
+  농구가 하고 싶은 사람들끼리 매칭을 도와주는 시스템
+  개인이 개인을 구하는 경우, 팀에서 개인을 구하는 경우, 팀이 팀을 구하는 경우 존재
+  개인과 팀 프로필 지원
+  개인은 팀 프로필을 확인한 뒤 팀에 가입할 수 있음
+
+  기여: Back-End, 프로젝트 발표 전반
+```
+  - [Back-End](https://github.com/SPACE-AXE/pcg-back.git)
