@@ -39,6 +39,5 @@
   세금포인트 제도가 만들어진지 20년 가량 된 제도
   하지만 사용률은 0%대로 매우 저조
   이에 따라 세금포인트 사용을 촉진시킬 수 있는 시스템 아이디어 제안
-[제11회_K-Hackathon_참석확인증_권수열.pdf](https://github.com/iipmango/iipmango.github.io/files/15450323/11._K-Hackathon_._.pdf)
-
 ```
+<img src="제11회_K-Hackathon_참석확인증_권수열.pdf">
